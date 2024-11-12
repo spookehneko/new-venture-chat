@@ -3,7 +3,7 @@ Venture is a modern, discord-like chat app for literally anything.
 <br> Users can create servers, call other users, and text.
 
 ## Navigation
-<br> frontend (You are here.)
+frontend (You are here.)
 <br> [backend]()
 
 ## How to contribute
