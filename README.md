@@ -4,7 +4,7 @@ Venture is a modern, discord-like chat app for literally anything.
 
 ## Navigation
 frontend (You are here.)
-<br> [backend]()
+<br> [backend](https://github.com/spookehneko/new-venture-back)
 
 ## How to contribute
 1. Fork the repo
