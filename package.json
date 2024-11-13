@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "express": "^4.21.1",
+    "io": "^1.5.3",
+    "socket": "^0.14.26",
     "typescript": "^5.6.3"
   }
 }
